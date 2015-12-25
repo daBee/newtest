@@ -1,0 +1,73 @@
+body {background: #cccc99;
+	font-family: sans-serif, Arial;
+	text-decoration: none;
+	width: 960px;
+	margin-left: 10px;		}
+
+#wrapper { 
+	width: 960px; 
+	margin-right: auto; 
+	margin-left: auto; 	}
+
+.header { 
+	height: 100px; 
+	color: #c12130; 
+	width: 100%; 	}
+
+h1 {font: bold 26px "Helvetica Neue";
+	color: #636363;		}
+
+h2 {
+	color: #636363; 
+	font: bold 20px "Helvetica Neue"; 	}
+
+h3 {font: bold 16px "Helvetica Neue";
+	color: #636363;		}
+
+#nav {color: #360;
+	text-decoration: none;
+	width: 50%;
+	font: normal 14px/120% sans-serif, Arial, Helvetica;
+	vertical-align: top;
+	padding-left: 15px;		}
+
+a:link a:visited {color: #191970;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;		}
+
+a :hover {color: #191970;
+	text-decoration: none;
+	background-color: #ffd700;
+	font-family: Arial, Helvetica, sans-serif;		}
+
+#nav a:link {color: #191970;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;		}
+
+#nav a:hover {color: #191970;
+	text-decoration: none;
+	background-color: #ffd700;
+	font-family: Arial, Helvetica, sans-serif;		}
+
+#nav a:visited {color: #191970;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;		}
+
+.ml_meat {		}
+
+.trouble {color: #c10621;
+	font-size: 12px;
+	background-color: white;		}
+
+.red { 
+	background-color: #c81b19; 
+	color: #fefb3c; 
+	padding: 1px; 
+	margin-bottom: 3px; 	}
+
+.footer { 
+	height: 120px; 
+	color: gray; 
+	width: 100%; 
+	background-color: silver; 
+	padding: 3px; 	}
