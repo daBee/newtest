@@ -1,7 +1,7 @@
 require "sinatra"
 
 get "/" do
-	@title = "New Project"
+  @title = "New Project"
   erb :root
 end
 
